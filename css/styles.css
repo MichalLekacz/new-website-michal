@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;600;700;800&display=swap');
+
+body {
+    max-width: 75rem;
+    margin: 0 auto;
+    background: linear-gradient(180deg, #3A4042 0%, rgba(58, 64, 66, 0) 100%), #212121;
+    background-repeat: no-repeat;
+    font-family: 'Mukta', sans-serif;
+    color: white;
+}
+
+.content-left > h1 {
+    font-size: 3.5rem;
+}
+
+.content-left span {
+    color:#8ECCCC;
+}
+
+h2 {
+    font-size: 2rem;
+    text-transform: uppercase;
+    border-bottom: 3px solid #8ECCCC;
+    padding-bottom: .5em;
+    max-width: 40%;
+    margin-bottom: 6rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+p {
+ font-size: 22px;
+ font-weight: 400;
+}
+
+.logo {
+    padding-top: 2rem;
+    margin-bottom: 8rem;
+}
+
+.logo>img:hover {
+    opacity: 0.5;
+}
+
+.hero-section {
+
+    display: flex;
+    margin-bottom: 8rem;
+}
+
+section {
+    margin-bottom: 8rem;
+}
+
+.content-left {
+
+    padding-right: 2rem;
+
+}
+
+.content-left>a {
+    background: #8ECCCC;
+    padding: .5rem 2rem;
+    text-decoration: none;
+    font-weight: bold;
+    color: #ffffff;
+    display: inline-block;
+    margin: 2rem 0;
+    border-radius: 1rem;
+}
+
+.content-left>a:hover {
+    background: #619e9e;
+
+}
+
+.content-right {
+    height: 600px;
+    width: 765px;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(142, 204, 204, 0.35) 0%, rgba(0, 255, 255, 0) 100%);
+    padding-left: 2rem;
+}
+
+.content-right>img:hover {
+    opacity: 80%;
+}
+
+.contact-links {
+    font-size: 34px;
+}
+
+.contact-links>span {
+    color: #8ECCCC;
+    font-weight: 800;
+}
+
+.contact-links>a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.contact-links>a:hover {
+    color: #8ECCCC;
+}
+
+.technology-icons {
+
+    margin-bottom: 2rem;
+}
+
+.technology-icons>a {
+    text-align: center;
+    padding:3rem;
+}
+
+.technology-icons>a:hover {
+    opacity: 50%;
+}
+
+
+.flex-box-interests {
+    display: flex;
+}
+
+.flex-box-interests p {
+    font-size: 1rem;
+    padding-right: 2rem;
+}
+
+footer {
+    font-size: 22px;
+    font-weight: 300;
+}
+
+footer span {
+    font-size: 28px;
+    color:#8ECCCC;
+}
