@@ -1,3 +1,3 @@
-> # new-website-michal
->
-> CV Website of Frontend developer Michal Lekacz ;)
+# new-website-michal
+
+CV Website of Frontend developer Michal Lekacz ;)
