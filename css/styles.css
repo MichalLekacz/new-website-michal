@@ -78,8 +78,6 @@ section {
 }
 
 .content-right {
-    height: 600px;
-    width: 765px;
     background: radial-gradient(50% 50% at 50% 50%, rgba(142, 204, 204, 0.35) 0%, rgba(0, 255, 255, 0) 100%);
     padding-left: 2rem;
 }
