@@ -1,9 +1,6 @@
-# new-website-michal
-
-CV Website of Frontend developer Michal Lekacz ;)
-
-*   Red
-*   Green
-*   Blue
-
-1986. What a great season.
+#### The quarterly results look great!
+>
+Revenue was off the chart.
+Profits were higher than ever.
+>
+ Everything is going according to plan.
